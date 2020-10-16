@@ -2,6 +2,7 @@
 layout: default
 ---
 
+![Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/Rational_points_of_bounded_height_outside_the_27_lines_on_Clebsch%27s_diagonal_cubic_surface.png)
 
 # Schedule
 
