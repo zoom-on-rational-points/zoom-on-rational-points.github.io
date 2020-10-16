@@ -15,7 +15,7 @@ The seminar meets every other Wednesday at **3:30-4:30 pm CEST**.
 
 # Organizers
 
-* <a href=https://pub.ist.ac.at/~mbilu/index.html> Margaret Bilu </a>(IST Austria)
+* <a href="{{https://pub.ist.ac.at/~mbilu/index.html}}"> Margaret Bilu </a>(IST Austria)
 * Kevin Destagnol (Université Paris-Saclay)
 * Simon Rydin Myerson (University of Warwick)
 * Efthymios Sofos (University of Glasgow)
