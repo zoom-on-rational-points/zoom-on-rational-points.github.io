@@ -12,8 +12,8 @@ The seminar meets every other Wednesday at **3:30-4:30 pm CEST**.
 
 | Date   | Speaker          | Title |
 |:-------------|:------------------|:------|
-| November 18th, 2020| Speaker 1 | Title 1 |
-| December 2nd, 2020 | Speaker 2  | Title 2  |
+| December 9th, 2020| Jean-Louis Colliot-Thélène | TBA |
+| December 16th, 2020 | Speaker 2  | Title 2  |
 
 
 # Organizers
