@@ -17,7 +17,7 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 # Mailing list
 
-If you want to receive the links to the talks and coffee breaks, please subscribe at <a href="./subscribe">
+If you want to receive the links to the talks and coffee breaks, please subscribe at <a href="./subscribe">this link</a>.
 
 # Organizers
 
