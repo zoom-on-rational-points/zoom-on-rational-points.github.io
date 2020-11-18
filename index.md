@@ -8,13 +8,16 @@ layout: default
 
 # Schedule
 
-The seminar meets every other Wednesday at **3:30-4:30 pm CEST**. 
+The seminar meets on one Friday every month at **2:30-3:30 pm CET** and **4-5 pm CET**. There will be online coffee breaks between the two talks.  
 
 | Date   | Speaker          | Title |
 |:-------------|:------------------|:------|
-| December 9th, 2020| Jean-Louis Colliot-Thélène | TBA |
-| December 16th, 2020 | Speaker 2  | Title 2  |
+| December 11th, 2020| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> | TBA |
+| December 11th, 2020 |<a href="https://www.math.wisc.edu/~ellenber/"> Jordan Ellenberg </a> | TBA  |
 
+# Mailing list
+
+If you want to receive the links to the talks and coffee breaks, please subscribe at
 
 # Organizers
 
