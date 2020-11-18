@@ -8,7 +8,7 @@ layout: default
 
 # Schedule
 
-The seminar meets on one Friday every month at **2:30-3:30 pm CET** and **4-5 pm CET**. There will be online coffee breaks between the two talks.  
+The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm Central European Time** and **4-5 pm Central European Time**. There will be online coffee breaks between the two talks.  For time conversion please visit <a href="https://researchseminars.org/seminar/zorp_1729>our researchseminars page</a>
 
 | Date   | Speaker          | Title |
 |:-------------|:------------------|:------|
