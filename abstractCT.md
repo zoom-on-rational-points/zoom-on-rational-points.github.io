@@ -12,4 +12,5 @@ layout: default
 <b>Title</b> : Jumps in the rank of the Mordell-Weil group
 <br>
 <br>
-<b>Abstract</b> : <math><mi>t</mi></math>
+<b>Abstract</b> : Let <math><mi>k</mi></math> be a number field and <math><mi>U</mi></math> a smooth integral <math><mi>k</mi></math>-variety.
+ Let <math><mi>X</mi></math>&rarr;<math><mi>U</mi></math> be an abelian scheme.
