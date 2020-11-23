@@ -6,10 +6,10 @@ layout: default
   <img width="400" height="400" style="transform: rotate(0.5turn);" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Rational_points_of_bounded_height_outside_the_27_lines_on_Clebsch%27s_diagonal_cubic_surface.png">
 </p>
 
-## <a href="https://www.imo.universite-paris-saclay.fr/~colliot/" style="color:green">Jean-Louis Colliot-Thélène</a>, <a href="https://www.cnrs.fr/fr/page-daccueil">CNRS</a> et <a href="https://www.imo.universite-paris-saclay.fr/">Université Paris-Saclay (Orsay) </a>
+## <a href="https://www.imo.universite-paris-saclay.fr/~colliot/" style="color:green">Jean-Louis Colliot-Thélène</a>, <a href="https://www.cnrs.fr/fr/page-daccueil" style="color:green">CNRS</a> et <a href="https://www.imo.universite-paris-saclay.fr/" style="color:green">Université Paris-Saclay (Orsay) </a>
 ## December 11th, 2020
 
 <b>Title</b> : Jumps in the rank of the Mordell-Weil group
 <br>
-<br>
-<b>Abstract</b> : 
+<br>$`\sqrt{2}`$
+<b>Abstract</b> : $`\sqrt{2}`$
