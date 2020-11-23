@@ -1,3 +1,8 @@
+@charset "UTF-8";
+html  { 
+height:100%;;
+}
+
 a.menu1{
 	color: #003e9f;
 	text-decoration: none;
