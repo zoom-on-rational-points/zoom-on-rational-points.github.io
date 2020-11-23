@@ -12,8 +12,8 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 | Date   | Speaker          | Title |
 |:-------------|:------------------|:------|
-| December 11th, 2020  2:30-3:30 CET| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> (CNRS et Paris-Saclay University(Orsay))  | <a href="https://zoom-on-rational-points.github.io/abstractCT">Jumps in the rank of the Mordell-Weil group</a> / <a href="https://zoom-on-rational-points.github.io/resumeCT">Sauts du rang du groupe de Mordell-Weil</a> |
-| December 11th, 2020 4:00-5:00 CET|<a href="https://www.math.wisc.edu/~ellenber/"> Jordan Ellenberg </a> (UW Madison) | TBA  |
+| December 11th, 2020 <br> 2:30-3:30 CET| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> <br> CNRS et Paris-Saclay University(Orsay)  | <a href="https://zoom-on-rational-points.github.io/abstractCT">Jumps in the rank of the Mordell-Weil group</a> / <a href="https://zoom-on-rational-points.github.io/resumeCT">Sauts du rang du groupe de Mordell-Weil</a> |
+| December 11th, 2020 <br> 4:00-5:00 CET|<a href="https://www.math.wisc.edu/~ellenber/"> Jordan Ellenberg </a> <br> UW Madison | TBA  |
 
 # Mailing list
 
