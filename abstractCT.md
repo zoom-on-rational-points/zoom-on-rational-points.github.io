@@ -13,4 +13,4 @@ layout: default
 <br>
 <br>
 <b>Abstract</b> : Let <math><mi>k</mi></math> be a number field and <math><mi>U</mi></math> a smooth integral <math><mi>k</mi></math>-variety.
- Let <math><mi>X</mi></math>&rarr;<math><mi>U</mi></math> be an abelian scheme. We consider the set of <math><mi>k</mi></math>-rational points of <math><mi>U</mi></math> such that the Mordell-Weil rank of the fibre  <math><msub><mi>X</mi><mi>m</mi></msub></math> is strictly bigger than the Mordell-Weil rank of the generic fibre over the function field <math><mi>k<mfenced><mi>U</mi></mfenced></mi></math>.
+ Let <math><mi>X</mi></math>&rarr;<math><mi>U</mi></math> be an abelian scheme. We consider the set of <math><mi>k</mi></math>-rational points of <math><mi>U</mi></math> such that the Mordell-Weil rank of the fibre  <math><msub><mi>X</mi><mi>m</mi></msub></math> is strictly bigger than the Mordell-Weil rank of the generic fibre over the function field <math xmlns='http://www.w3.org/1998/Math/MathML'><mi>k<mfenced><mi>U</mi></mfenced></mi></math>.
