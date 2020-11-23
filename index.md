@@ -12,7 +12,7 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 | Date   | Speaker          | Title |
 |:-------------|:------------------|:------|
-| December 11th, 2020| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> | TBA |
+| December 11th, 2020| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> | Jumps in the rank of the Mordell-Weil group/Sauts du rang du groupe de Mordell-Weil |
 | December 11th, 2020 |<a href="https://www.math.wisc.edu/~ellenber/"> Jordan Ellenberg </a> | TBA  |
 
 # Mailing list
@@ -25,6 +25,5 @@ If you want to receive the links to the talks and coffee breaks, please send a b
 * <a href="https://www.imo.universite-paris-saclay.fr/~destagnol/pageweben.html">Kevin Destagnol</a> (Université Paris-Saclay)
 * <a href="https://warwick.ac.uk/fac/sci/maths/people/staff/myerson/">Simon Rydin Myerson</a> (University of Warwick)
 * <a href="https://sites.google.com/view/efsofos/home">Efthymios Sofos</a> (University of Glasgow)
-
 
 
