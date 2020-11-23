@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link href="style.css" rel="stylesheet" type="text/css" />
+
 <p align="center">
   <img width="400" height="400" style="transform: rotate(0.5turn);" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Rational_points_of_bounded_height_outside_the_27_lines_on_Clebsch%27s_diagonal_cubic_surface.png">
 </p>
@@ -12,7 +14,7 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 | Date   | Speaker          | Title |
 |:-------------|:------------------|:------|
-| December 11th, 2020| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> | Jumps in the rank of the Mordell-Weil group/Sauts du rang du groupe de Mordell-Weil |
+| December 11th, 2020| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> | <div class="menu1">Jumps in the rank of the Mordell-Weil group/Sauts du rang du groupe de Mordell-Weil</div> |
 | December 11th, 2020 |<a href="https://www.math.wisc.edu/~ellenber/"> Jordan Ellenberg </a> | TBA  |
 
 # Mailing list
