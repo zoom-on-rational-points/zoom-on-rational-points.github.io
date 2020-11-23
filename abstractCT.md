@@ -7,7 +7,7 @@ layout: default
 </p>
 
 ## <a href="https://www.imo.universite-paris-saclay.fr/~colliot/" style="color:black">Jean-Louis Colliot-Thélène,</a> <a href="https://www.cnrs.fr/fr/page-daccueil" style="color:black">CNRS</a> <c style="color:black">and</c> <a href="https://www.imo.universite-paris-saclay.fr/" style="color:black">Paris-Saclay University(Orsay) </a>
-## <c style="color:black">December 11th, 2020  2:30-3:30 CET</c>
+## <c style="color:black">December 11th, 2020  2:30-3:30 pm CET</c>
 
 <b>Title</b> : Jumps in the rank of the Mordell-Weil group
 <br>
