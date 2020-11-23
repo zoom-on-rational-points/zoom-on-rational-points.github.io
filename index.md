@@ -1,6 +1,7 @@
 ---
 @import "{{ site.theme }}";
-.margin-right: 150px;
+.margin-right: 0px;
+.margin-left: 0px;
 ---
 
 <p align="center">
