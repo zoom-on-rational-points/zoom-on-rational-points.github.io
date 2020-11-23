@@ -12,7 +12,7 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 | Date   | Speaker          | Title |
 |:-------------|:------------------|:------|
-| December 11th, 2020| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> | Jumps in the rank of the Mordell-Weil group/Sauts du rang du groupe de Mordell-Weil |
+| December 11th, 2020| <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> | <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jumps in the rank of the Mordell-Weil group</a> / <a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Sauts du rang du groupe de Mordell-Weil</a> |
 | December 11th, 2020 |<a href="https://www.math.wisc.edu/~ellenber/"> Jordan Ellenberg </a> | TBA  |
 
 # Mailing list
