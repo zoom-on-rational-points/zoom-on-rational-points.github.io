@@ -1,0 +1,9 @@
+a.menu1{
+	color: #003e9f;
+	text-decoration: none;
+	font-weight: normal;
+}
+a.menu1:hover{
+	color: #800000;
+	/*  */#ff6c00;
+}
