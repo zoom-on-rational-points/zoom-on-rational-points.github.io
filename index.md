@@ -1,6 +1,6 @@
 ---
-@import "{{ site.theme }}";
 @import 'variables.scss';
+@import "{{ site.theme }}";
 ---
 
 <p align="center">
