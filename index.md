@@ -4,6 +4,9 @@
     padding: 0;
     font-size: 0.9rem;
   }
+   @include large {
+    padding: 0;
+  }
 ---
 
 <p align="center">
