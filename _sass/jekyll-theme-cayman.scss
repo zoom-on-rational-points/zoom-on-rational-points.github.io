@@ -4,13 +4,13 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
 @mixin large {
-  @media screen and (min-width: #{$large-breakpoint}) {
+  @media screen and (min-width: 200px) {
     @content;
   }
 }
 
 @mixin medium {
-  @media screen and (min-width: #{$medium-breakpoint}) and (max-width: #{$large-breakpoint}) {
+  @media screen and (min-width: 200px) and (max-width: 1400px) {
     @content;
   }
 }
