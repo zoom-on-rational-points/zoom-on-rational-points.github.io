@@ -1,12 +1,7 @@
 ---
 @import "{{ site.theme }}";
-@include medium {
-    padding: 0;
-    font-size: 0.9rem;
-  }
-   @include large {
-    padding: 0;
-  }
+$medium-breakpoint: 52em !default;
+$large-breakpoint: 74em !default;
 ---
 
 <p align="center">
