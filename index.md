@@ -1,7 +1,7 @@
 ---
 @import "{{ site.theme }}";
-.main-content{
-    width: 300px;
+.page-header{
+    color: red;
     }
 ---
 
