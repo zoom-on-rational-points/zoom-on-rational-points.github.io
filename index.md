@@ -1,6 +1,22 @@
 ---
-@import 'variables.scss';
 @import "{{ site.theme }}";
+@mixin large {
+  @media screen and (min-width: #{74em !default}) {
+    @content;
+  }
+}
+
+@mixin medium {
+  @media screen and (min-width: #{74em !default}) and (max-width: #{74em !default}) {
+    @content;
+  }
+}
+
+@mixin small {
+  @media screen and (max-width: #{74em !default}) {
+    @content;
+  }
+}
 ---
 
 <p align="center">
