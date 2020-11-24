@@ -1,5 +1,5 @@
 ---
-classes: wide
+class: wide
 ---
 
 <p align="center">
