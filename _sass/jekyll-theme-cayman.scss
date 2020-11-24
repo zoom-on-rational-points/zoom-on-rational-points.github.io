@@ -168,14 +168,14 @@ a {
   }
 
   @include large {
-    max-width: 79%;
+    max-width: 85%;
     padding: 2rem 6rem;
     margin: 0 auto;
     font-size: 1.1rem;
   }
 
   @include medium {
-    max-width: 85%;
+    max-width: 79%;
     padding: 2rem 4rem;
     font-size: 1.1rem;
   }
