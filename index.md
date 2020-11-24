@@ -1,8 +1,9 @@
 ---
 @import "{{ site.theme }}";
-.page-header{
-    color: red;
-    }
+@include medium {
+    padding: 0;
+    font-size: 0.9rem;
+  }
 ---
 
 <p align="center">
