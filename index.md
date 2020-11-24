@@ -1,5 +1,5 @@
 ---
-class: wide
+class: full_page
 ---
 
 <p align="center">
