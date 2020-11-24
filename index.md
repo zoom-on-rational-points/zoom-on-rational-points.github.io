@@ -1,7 +1,6 @@
 ---
 @import "{{ site.theme }}";
-$medium-breakpoint: 52em !default;
-$large-breakpoint: 74em !default;
+@import 'variables.scss';
 ---
 
 <p align="center">
