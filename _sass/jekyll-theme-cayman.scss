@@ -175,13 +175,12 @@ a {
   }
 
   @include medium {
-    max-width: 79%;
+    max-width: 85%;
     padding: 2rem 4rem;
     font-size: 1.1rem;
   }
 
   @include small {
-    max-width: 79%;
     padding: 2rem 1rem;
     font-size: 1rem;
   }
