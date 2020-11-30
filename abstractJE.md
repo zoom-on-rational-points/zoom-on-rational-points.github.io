@@ -7,7 +7,7 @@ layout: default
 </p>
 
 ## <a href="https://www.math.wisc.edu/~ellenber/" style="color:black">Jordan Ellenberg,</a> <a href="https://www.math.wisc.edu/" style="color:black">UW Madison</a>
-## <c style="color:black">December 11th, 2020  2:30-3:30 pm CET</c>
+## <c style="color:black">December 11th, 2020  4:00-5:00 pm CET</c>
 
 <b>Title</b> : Some questions around counting rational points on stacks
 <br>
