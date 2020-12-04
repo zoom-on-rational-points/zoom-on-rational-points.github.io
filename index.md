@@ -8,7 +8,7 @@
 
 # Schedule
 
-The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  Paris time** and **4-5 pm Paris time**. There will be online coffee breaks between the two talks.  For time conversion please visit <a href="https://researchseminars.org/seminar/zorp_1729">our researchseminars page</a>
+The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  Paris time** and **4-5 pm Paris time**. There will be online coffee breaks between the two talks.  For time conversion and Zoom link please visit <a href="https://researchseminars.org/seminar/zorp_1729">our researchseminars page</a>
 
 
 | Date   | Speakers     | Titles and Abstracts |
