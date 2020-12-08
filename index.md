@@ -12,7 +12,7 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 
 | Date   | Speakers     | Titles and Abstracts |
-|:-------|:--------------|:------|
+|:------------|:--------------|:------|
 | **December 11th, 2020** <br>2:30-3:30 pm CET <br><br> <br> 4:00-5:00 pm CET <br>| <br><a href="https://www.imo.universite-paris-saclay.fr/~colliot/">Jean-Louis Colliot-Thélène</a> <br> CNRS and Paris-Saclay University (Orsay) <br><br>  <a href="https://www.math.wisc.edu/~ellenber/"> Jordan Ellenberg </a> <br> UW Madison| <br><a href="https://zoom-on-rational-points.github.io/abstractCT">Jumps in the rank of the Mordell-Weil group</a> / <a href="https://zoom-on-rational-points.github.io/resumeCT">Sauts du rang du groupe de Mordell-Weil</a> <br><br><br><a href="https://zoom-on-rational-points.github.io/abstractJE">Some questions around counting rational points on stacks</a><br>|
 | **January 15th, 2021** <br>2:30-3:30 pm CET <br><br> <br> 4:00-5:00 pm CET <br>| <br><a href ="http://www-personal.umich.edu/~ytchan/">Stephanie Chan</a> <br> University of Michigan <br><br>  <a href="http://guests.mpim-bonn.mpg.de/carlo.pagano90/"> Carlo Pagano </a> <br> University of Glasgow| <br>TBA <br><br><br>TBA<br>|
 
@@ -20,6 +20,18 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 # Mailing list
 
 If you want to receive the links to the talks and coffee breaks, please send a blank email to <a href='mailto:zorp-join@listserv.csv.warwick.ac.uk'>zorp-join@listserv.csv.warwick.ac.uk</a> and <b>click the link in the email we send in reply</b>. If you can't send a blank email you can put any gibberish in there.
+
+# Friends of ZORP
+
+You might also be interested in these seminars:
+
+| Date   | Event name     | More information |
+|:-------|:--------------|:------|
+| **Decenber 18th, 2020** <br> 9:30am-1pm GMT| Egham-Reading-London Arithmetic Statistics Seminar  | <a href="https://reynoldfregoli.wixsite.com/website">Programme and Zoom link</a> |
+| **<a href="https://www.youtube.com/watch?v=0LRjvyldpCw">Video recording online</a>** <br> (November 20th, 2020) | Yuri Manin, "Homotopy spectra and Diophantine equations" | A Harvard Math Science Literature Lecture.<br> <a href="https://cmsa.fas.harvard.edu/literature-lecture-series/">Lecture series webpage</a>; <a href="https://www.youtube.com/watch?v=0LRjvyldpCw">watch the talk</a>|
+| **One Friday each month** | S&eacute;minaire "Vari&eacute;t&eacute;s Rationelles" | <a href="https://webusers.imj-prg.fr/~cyril.demarche/SVR/SVR.html">Seminar webpage</a> with mailing list information etc. |
+
+
 
 # Organizers
 
