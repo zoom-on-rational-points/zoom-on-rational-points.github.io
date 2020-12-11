@@ -1,7 +1,0 @@
----
-@import "{{ site.theme }}";
----
-
-<a href="https://gather.town/app/gydS2CrSzdjNziPC/ZORP">This is the link for the coffee break.</a><br>
-For this coffee break it is essential to use Firefox or Chrome and we recommend a desktop/laptop computer instead of a mobile device.<br>
-We kindly ask that you use your full name in the Zoom session and coffee meeting.
