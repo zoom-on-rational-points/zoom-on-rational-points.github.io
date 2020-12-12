@@ -8,7 +8,7 @@
 
 # Schedule
 
-The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  Paris time** and **4-5 pm Paris time**. There will be online coffee breaks between the two talks.  For time conversion and **Zoom link** please visit <a href="https://researchseminars.org/seminar/zorp_1729">our researchseminars page</a>
+The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  Paris time** and **4-5 pm Paris time**. There will be online coffee breaks between the two talks.  For time conversion and **Zoom link** please visit <a href="https://researchseminars.org/seminar/zorp_1729">our researchseminars page</a>.
 
 
 | Date   | Speakers     | Titles and Abstracts |
@@ -19,7 +19,7 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 # Mailing list
 
-If you want to receive the links to the talks and coffee breaks, please send a blank email to <a href='mailto:zorp-join@listserv.csv.warwick.ac.uk'>zorp-join@listserv.csv.warwick.ac.uk</a> and <b>click the link in the email we send in reply</b>. If you can't send a blank email you can put any gibberish in there.
+If you want to receive the links to the talks and coffee breaks, please send a blank email to <a href='mailto:zorp-join@listserv.csv.warwick.ac.uk'>zorp-join@listserv.csv.warwick.ac.uk</a> and <b>click the link in the email we send in reply</b>. If you can't send a blank email you can put any gibberish in there. If you cant find the email please **check your spam folder** as all mailing lists, no matter how innocent, are liable to end up there.  You can also see the link on <a href="https://researchseminars.org/seminar/zorp_1729">our researchseminars page</a> with a free account there.
 
 # Friends of ZORP
 
