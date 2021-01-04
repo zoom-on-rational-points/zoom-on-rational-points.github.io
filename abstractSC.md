@@ -12,5 +12,5 @@ layout: default
 <b>Title</b> : A density of ramified primes
 <br>
 <br>
-<b>Abstract</b> : Let <math><mi>K</mi></math> be a cyclic number field of odd degree over Q with odd narrow class number, such that 2 is inert in K/Q. We extend the definition of spin (a special quadratic residue symbol) to all odd ideals in K, not necessarily principal. We discuss some of the ideas involved in obtaining an explicit formula, depending only on [K:Q], for the density of rational prime ideals satisfying a certain property of spins, conditional on a standard conjecture on short character sums. This talk is based on joint work with Christine McMeekin and Djordjo Milovic.
+<b>Abstract</b> : Let <math><mi>K</mi></math> be a cyclic number field of odd degree over <math><mi>\mathbb{Q}</mi></math> with odd narrow class number, such that 2 is inert in K/Q. We extend the definition of spin (a special quadratic residue symbol) to all odd ideals in K, not necessarily principal. We discuss some of the ideas involved in obtaining an explicit formula, depending only on [K:Q], for the density of rational prime ideals satisfying a certain property of spins, conditional on a standard conjecture on short character sums. This talk is based on joint work with Christine McMeekin and Djordjo Milovic.
 
