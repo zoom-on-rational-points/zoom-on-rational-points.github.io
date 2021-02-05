@@ -12,7 +12,7 @@ layout: default
 <b>Title</b> : Manin conjecture for algebraic stacks
 <br>
 <br>
-<b>Abstract</b> : We study the conjecture of Manin-Batyrev-Peyre in the context of algebraic stacks. Two examples are of particular interest: the compactification of the moduli stack of elliptic curves <math><munder>
+<b>Abstract</b> : We study the conjecture of Manin-Batyrev-Peyre in the context of algebraic stacks. Two examples are of particular interest: the compactification of the moduli stack of elliptic curves <c STYLE="text-decoration:overline;">&#02133;</c><math><munder>
   <mi></mi>
     <mrow>
       <mi>1</mi><mo>,</mo><mi>1</mi>
