@@ -13,10 +13,9 @@ layout: default
 <br>
 <br>
 <b>Abstract</b> : We study the conjecture of Manin-Batyrev-Peyre in the context of algebraic stacks. Two examples are of particular interest: the compactification of the moduli stack of elliptic curves <math><munder>
-  <mrow>
-    M
-    </mrow>
-    <mrow><mi>1,</mi><mi>1</mi>
+  <mi></mi>
+    <mrow>
+      <mi>1</mi><mo>,</mo><mi>1</mi>
     </mrow>
     </munder>
 </math> and the classifying stack <math><mi>B</mi><mi>G</mi></math> for <math><mi>G</mi></math> finite group, which classifies <math><mi>G</mi></math>-torsors.  The stack is isomorphic to the weighted projective stack <math>&#1D4AB;</math>(4,6) which is the quotient stack for the weighted action of <math><munder><mi>&#1D53E;</mi><mi>m</mi></munder></math> on <math><mover><mi>&#1D538;</mi><mi>2</mi></mover></math>−{0} with weights 4,6.  For weighted projective stacks, we define heights that we can use for counting its rational points, examples are given by the naive height and the Faltings’ height of an elliptic curve. We  try  to  motivate  why  the  second  example  may  help  us  obtain  a  geometrical reinterpretation of constants appearing in Malle conjecture, which predicts the number of Galois extensions with fixed Galois group <math><mi>G</mi></math> .
