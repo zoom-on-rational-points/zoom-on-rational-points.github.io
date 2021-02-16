@@ -7,7 +7,7 @@ layout: default
 </p>
 
 ## <a href="https://webusers.imj-prg.fr/ratko.darda" style="color:black">Ratko Darda,</a> <a href="" style="color:black">Paris University (Paris 7)</a>
-## <c style="color:black">January 15th, 2021  4:00-5:00 pm CET</c>
+## <c style="color:black">February 19th, 2021  2:30-3:30 pm CET</c>
 
 <b>Title</b> : Manin conjecture for algebraic stacks
 <br>
