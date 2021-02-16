@@ -6,7 +6,7 @@ layout: default
   <img width="200" height="200" style="transform: rotate(0.5turn);" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Rational_points_of_bounded_height_outside_the_27_lines_on_Clebsch%27s_diagonal_cubic_surface.png">
 </p>
 
-## <a href="https://webusers.imj-prg.fr/ratko.darda" style="color:black">Ratko Darda,</a> <a href="" style="color:black">Paris University (Paris 7)</a>
+## <a href="https://webusers.imj-prg.fr/ratko.darda" style="color:black">Ratko Darda,</a> <a href="https://www.imj-prg.fr/" style="color:black">Paris University (Paris 7)</a>
 ## <c style="color:black">February 19th, 2021  2:30-3:30 pm CET</c>
 
 <b>Title</b> : Manin conjecture for algebraic stacks
