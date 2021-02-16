@@ -6,7 +6,7 @@ layout: default
   <img width="200" height="200" style="transform: rotate(0.5turn);" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Rational_points_of_bounded_height_outside_the_27_lines_on_Clebsch%27s_diagonal_cubic_surface.png">
 </p>
 
-## <a href="https://personal-homepages.mis.mpg.de/winter/" style="color:black">Rosa Winter,</a> <a href="" style="color:black">Paris University (Paris 7)</a>
+## <a href="https://personal-homepages.mis.mpg.de/winter/" style="color:black">Rosa Winter,</a> <a href="https://www.mis.mpg.de/" style="color:black">Max Planck Institute for Mathematics in the Sciences (Leipzig)</a>
 ## <c style="color:black">February 19th, 2021  4:00-5:00 pm CET</c>
 
 <b>Title</b> : Density of rational points on a family of del Pezzo surfaces of degree 1
