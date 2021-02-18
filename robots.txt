@@ -1,5 +1,5 @@
 ---
 ---
 User-agent: *
-Disallow: /nap_pigeon_shelf_theorist
-Disallow: /nap_pigeon_shelf_theorist.html
+Disallow: /ghost_wardrobe_looting_swarm
+Disallow: /ghost_wardrobe_looting_swarm.html
