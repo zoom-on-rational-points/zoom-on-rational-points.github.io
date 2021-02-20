@@ -31,7 +31,7 @@ A link for the coffee breaks will be posted in the Zoom meeting and sent to the 
 
 To join the coffee break you will need to use Firefox or Chrome to open the link. (Except on iPad/iPhone, where you must use Safari and may experience problems.)
 
-If you have trouble, Google "<a href="https://support.google.com/chrome/answer/2693767">Chrome microphone permissions</a>" / "<a href="https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions#w_changing-microphone-permissions">Firefox microphone permissions</a>".
+If you have  trouble, try both Chrome and Firefox, or do a Google search for <a href="https://support.google.com/chrome/answer/2693767">Chrome microphone permissions</a> / <a href="https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions#w_changing-microphone-permissions">Firefox microphone permissions</a>.
 
 # Friends of ZORP
 
