@@ -27,16 +27,13 @@ If you want to receive the links to the talks and coffee breaks, please send a b
 
 We kindly ask that you use your full name in the Zoom session and coffee meeting.
 
-A link for the coffee breaks will be posted in the Zoom meeting and sent to the mailing list. To join the coffee break you will need to use Firefox or Chrome to open the link. (Except on iPad/iPhone, where you must use Safari and may experience problems.)
+A link for the coffee breaks will be posted in the Zoom meeting and sent to the mailing list.
+
+To join the coffee break you will need to use Firefox or Chrome to open the link. (Except on iPad/iPhone, where you must use Safari and may experience problems.)
 
 If you have trouble, Google "<a href="https://support.google.com/chrome/answer/2693767">Chrome microphone permissions</a>" / "<a href="https://support.mozilla.org/en-US/kb/how-manage-your-camera-and-microphone-permissions#w_changing-microphone-permissions">Firefox microphone permissions</a>".
 
 While attending the coffee break, please either leave the Zoom meeting or route the Zoom audio to a pair of headphones.
-
-We kindly ask that you use your full name in the Zoom session and coffee meeting.
-
-
-If you use separate devices for Zoom and coffee, please use headphones for Zoom to prevent echo. If this is not possible please leave the Zoom meeting while attending the coffee break.
 
 # Friends of ZORP
 
