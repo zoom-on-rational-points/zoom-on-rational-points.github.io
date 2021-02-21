@@ -1,5 +1,0 @@
----
----
-User-agent: *
-Disallow: /ghost_wardrobe_looting_swarm
-Disallow: /ghost_wardrobe_looting_swarm.html
