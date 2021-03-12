@@ -7,7 +7,7 @@ layout: default
 </p>
 
 ## <a href="https://sites.google.com/site/damarishomepage/" style="color:black">Damaris Schindler,</a> <a href="https://www.uni-goettingen.de/de/20693.html" style="color:black">G&ouml;ttingen University</a>
-## <c style="color:black">December 11th, 2020  4:00-5:00 pm CET</c>
+## <c style="color:black">March 19th, 2021  2:30-3:30 pm CET</c>
 
 <b>Title</b> : Campana points on toric varieties
 <br>
