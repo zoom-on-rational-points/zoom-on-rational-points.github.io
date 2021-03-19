@@ -43,7 +43,9 @@ You might also be interested in these seminars:
 | Date   | Event name     | More information |
 |:-------|:--------------|:------|
 | **March 26th, 2021** <br> 3:00-5:00pm BST| Manchester Pure Maths Colloquium  | <a href="https://events.manchester.ac.uk/event/event:jm-kmg739mn-odzu3r#travelinfo">John Voight, Dartmouth College - Definite quaternion orders with stable cancellation</a><br>Contact <a href="mailto:vandita.patel@manchester.ac.uk">Vandita Patel</a> for Zoom link |
-{% comment %}| **December 18th, 2020** <br> 9:30am-1pm GMT| Egham-Reading-London Arithmetic Statistics Seminar  | <a href="https://reynoldfregoli.wixsite.com/website">Programme and Zoom link</a> |{% endcomment %}
+{% comment %}
+| **December 18th, 2020** <br> 9:30am-1pm GMT| Egham-Reading-London Arithmetic Statistics Seminar  | <a href="https://reynoldfregoli.wixsite.com/website">Programme and Zoom link</a> |
+{% endcomment %}
 | **<a href="https://www.youtube.com/watch?v=0LRjvyldpCw">Video recording online</a>** <br> (November 20th, 2020) | Yuri Manin, "Homotopy spectra and Diophantine equations" | A Harvard Math Science Literature Lecture.<br> <a href="https://cmsa.fas.harvard.edu/literature-lecture-series/">Lecture series webpage</a>; <a href="https://www.youtube.com/watch?v=0LRjvyldpCw">watch the talk</a>|
 | **One Friday each month** | S&eacute;minaire "Vari&eacute;t&eacute;s Rationelles" | <a href="https://webusers.imj-prg.fr/~cyril.demarche/SVR/SVR.html">Seminar webpage</a> with mailing list information etc. |
 | **One every three months** | WORKing seminar on Diophantine geometry | <a href="https://sites.google.com/site/netandogra/working-seminar">Seminar webpage</a> with all the information. |
