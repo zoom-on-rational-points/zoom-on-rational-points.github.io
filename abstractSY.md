@@ -12,4 +12,4 @@ layout: default
 <b>Title</b> : Density of rational points near/on compact manifolds with certain curvature conditions
 <br>
 <br>
-<b>Abstract</b> : In this talk I will explain my work with Damaris Schindler where we obtain an asymptotic formula for the number of rational points near submanifolds of R^n with certain curvature conditions, and what we can say about the number of rational points on them. 
+<b>Abstract</b> : In this talk I will explain my work with Damaris Schindler where we obtain an asymptotic formula for the number of rational points near submanifolds of &#x211D;<math><sup><mi></mi><mi>n</mi></sup></math> with certain curvature conditions, and what we can say about the number of rational points on them. 
