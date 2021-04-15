@@ -7,7 +7,7 @@ layout: default
 </p>
 
 ## <a href="https://www.uu.nl/staff/mobile/SYamagishi" style="color:black">Shuntaro Yamagishi,</a> <a href="https://www.uu.nl/en/organisation/department-of-mathematics" style="color:black">Universiteit Utrecht</a>
-## <c style="color:black">March 19th, 2021  2:30-3:30 pm CET</c>
+## <c style="color:black">April 23rd, 2021  4:00-5:00 pm CET</c>
 
 <b>Title</b> : Density of rational points near/on compact manifolds with certain curvature conditions
 <br>
