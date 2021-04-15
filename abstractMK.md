@@ -7,7 +7,7 @@ layout: default
 </p>
 
 ## <a href="https://sites.google.com/view/miriam-kaesberg/home" style="color:black">Miriam Kaesberg,</a> G&ouml;ttingen University
-## <c style="color:black">December 11th, 2020  2:30-3:30 pm CET</c>
+## <c style="color:black">April 23rd, 2021 2:30-3:30 pm CET</c>
 
 <b>Title</b> : On Artin's Conjecture: Pairs of Additive Forms
 <br>
