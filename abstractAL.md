@@ -13,8 +13,8 @@ layout: default
 <br>
 <br>
 <b>Abstract</b> : Let <math><mi>K</mi></math> be a cyclic extension of &#x211A; of degree 3. If r<math><sub><mi>3</mi></sub></math>(<math><mi>n</mi></math>) denotes the number of ideals of &#119978;<math><sub><mi>K</mi></sub></math> of norm <math><mi>n</mi></math>, we have a relation between the function r<math><sub><mi>3</mi></sub></math> and a non trivial Dirichlet character of Gal(<math><mi>K</mi></math>/&#x211A;), which is <br>
-<center>
+<p>
 r<math><sub><mi>3</mi></sub></math>(<math><mi>n</mi></math>)<math><mo>=</mo></math>(1*&#x3C7; * &#x3C7; )(<math><mi>n</mi></math>).
-  </center>
+</p>
 <br>
 In this talk, we investigate an asymptotic estimate for the number of ideals of &#119978;<math><sub><mi>K</mi></sub></math> with norm is a binary form of degree 3, using this equality and a new result on Hooley's Delta function.
