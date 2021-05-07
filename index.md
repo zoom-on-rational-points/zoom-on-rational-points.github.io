@@ -55,7 +55,7 @@ You might also be interested in these seminars:
 We gratefully acknowledge the support of
 * <b>Glasgow University</b> (<em>Zoom license</em>)
 * <b>European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie Grant Agreement No. 893012</b> (<em>gather.town license</em>)
-* <b>Warwick University</b> (<em>gather.town license</em>)
+* The <b>Leverhulme Trust</b> through an Early Career Fellowship, and <b>Warwick University</b> (<em>gather.town license</em>)
 
 # Organizers
 
