@@ -24,7 +24,7 @@ The seminar meets on one Friday every month with two talks, at **2:30-3:30 pm  P
 
 # Mailing list
 
-If you want to receive the links to the talks and coffee breaks, please send a blank email to <a href='mailto:zorp-join@listserv.csv.warwick.ac.uk'>zorp-join@listserv.csv.warwick.ac.uk</a> and <b>click the link in the email we send in reply</b>. If you can't send a blank email you can put any gibberish in there. If you can't find our emails please **check your spam folder**.  You can also see the link on <a href="https://researchseminars.org/seminar/zorp_1729">our researchseminars page</a> if you create a free account there.
+If you want to receive the links to the talks and coffee breaks, please send a blank email to <a href='mailto:zorp-join@listserv.csv.warwick.ac.uk'>zorp-join@listserv.csv.warwick.ac.uk</a> and <b>click the link in the email we send in reply</b>. If you can't send a blank email you can put any gibberish in there. If you can't find our emails please **check your spam folder**. Failing that, fill out <a href="https://listserv.csv.warwick.ac.uk/mailman/listinfo/zorp">this form</a>. You can also see the Zoom links on <a href="https://researchseminars.org/seminar/zorp_1729">our researchseminars page</a>.
 
 # Coffee breaks and house rules
 
