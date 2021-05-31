@@ -12,5 +12,5 @@ layout: default
 <b>Title</b> : Constant root number on integer fibres of elliptic surfaces
 <br>
 <br>
-<b>Abstract</b> :  In this joint work with Julie Desjardins, we aim to describe all non-isotrivial families of elliptic curves with low-degree coefficients such that the root number is constant for every integer fibre in the family. We motivate this talk by studying properties of the root number in families of elliptic curves and Washington's example &#x1d4b2;<math><munder><mi></mi><mi>t</mi></math>.
+<b>Abstract</b> :  In this joint work with Julie Desjardins, we aim to describe all non-isotrivial families of elliptic curves with low-degree coefficients such that the root number is constant for every integer fibre in the family. We motivate this talk by studying properties of the root number in families of elliptic curves and Washington's example &#x1d4b2;<math><sub><mi>t</mi></sub></math>.
 
