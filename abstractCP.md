@@ -6,7 +6,7 @@ layout: default
   <img width="200" height="200" style="transform: rotate(0.5turn);" src="https://upload.wikimedia.org/wikipedia/commons/1/18/Rational_points_of_bounded_height_outside_the_27_lines_on_Clebsch%27s_diagonal_cubic_surface.png">
 </p>
 
-## <a href="http://guests.mpim-bonn.mpg.de/carlo.pagano90/" style="color:black">Carlo Pagano,</a> <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/" style="color:black">University of Glasgow</a> <c style="color:black">and</c> <a href="https://www.mpim-bonn.mpg.de/" style="color:black">Max Planck Institute for Mathematics (Bonn)</a>
+## <a href="https://sites.google.com/view/carlopagano/home-page" style="color:black">Carlo Pagano,</a> <a href="https://www.gla.ac.uk/schools/mathematicsstatistics/" style="color:black">University of Glasgow</a> <c style="color:black">and</c> <a href="https://www.mpim-bonn.mpg.de/" style="color:black">Max Planck Institute for Mathematics (Bonn)</a>
 ## <c style="color:black">January 15th, 2021  4:00-5:00 pm CET</c>
 
 <b>Title</b> : On the statistics of number fields, integral points and Arakelov ray class groups
